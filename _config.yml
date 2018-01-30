@@ -62,4 +62,5 @@ address:
 
 # Build settings
 markdown: kramdown
+remote_theme: agency
 permalink: pretty
